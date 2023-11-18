@@ -30,7 +30,7 @@ export default function Atos() {
               <span>Vitória de Giuseppe ou Ana Carolina Pansani </span>
             </div>
             <div className="flex gap-2 items-center flex-col md:flex-row">
-              <h4 className="font-semibold text-base uppercase">Príncepe:</h4>
+              <h4 className="font-semibold text-base uppercase">Príncipe:</h4>
               <span>Raoni Xavier</span>
             </div>
             <div className="flex gap-2 items-center flex-col md:flex-row">
